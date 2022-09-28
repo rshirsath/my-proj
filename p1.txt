@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 welcome hello
+=======
+welcome
+>>>>>>> parent of 9e7e298 (done)
